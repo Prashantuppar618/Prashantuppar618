@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Uppar</h1>
-<h3 align="center">A passionate Devops, Software , AI/ML Engineer and Network Designer</h3>
+<h3 align="center">A passionate Embedded Software Development, Firmare Coding , software development and AI/IOT Enthusiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantuppar618&label=Profile%20views&color=0e75b6&style=flat" alt="prashantuppar618" /> </p>
 
