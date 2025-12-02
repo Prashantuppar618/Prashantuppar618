@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Uppar</h1>
-<h3 align="center">A passionate Embedded Software Development, Firmware Coding , software development and AI/IOT Enthusiastic</h3>
+<h3 align="center">Firmware is my poetry, embedded systems my canvas, AI my light, and IoT my unfolding garden of ideas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantuppar618&label=Profile%20views&color=0e75b6&style=flat" alt="prashantuppar618" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/prashantuppar89" target="blank"><img src="https://img.shields.io/twitter/follow/prashantuppar89?logo=twitter&style=for-the-badge" alt="prashantuppar89" /></a> </p>
 
-- 🌱 I’m currently learning **Devops Tools**
+- 🌱 I’m currently learning **Low level Embedded coding**
 
-- 💬 Ask me about **Networking protocols, GenAI**
+- 💬 Ask me about **Microcontroller, Firmware development**
 
 - 📫 How to reach me **prashantuppar2004@gmail.com**
 
