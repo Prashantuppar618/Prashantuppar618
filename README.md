@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Uppar</h1>
-<h3 align="center">Firmware is my poetry, embedded systems my canvas, AI my light, and IoT my unfolding garden of ideas.</h3>
+<h3 align="center">Software Developer, Java full stack, Agentic AI, Embedded Sofwawre Development , Linux</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantuppar618&label=Profile%20views&color=0e75b6&style=flat" alt="prashantuppar618" /> </p>
 
