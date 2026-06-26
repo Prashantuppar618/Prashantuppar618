@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Low level Embedded coding**
 
-- 💬 Ask me about **Microcontroller, Firmware development**
+- 💬 Ask me about **Software Development,Embedded Software Developemt,Linux**
 
 - 📫 How to reach me **prashantuppar2004@gmail.com**
 
